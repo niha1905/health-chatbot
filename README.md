@@ -1,6 +1,4 @@
-Here’s a **README.md** draft for your basic Flask-based medical chatbot project where data is stored in a JavaScript file:
 
----
 
 # 🏥 Basic Medical Chatbot using Flask
 
@@ -96,6 +94,4 @@ const medicalData = {
 This chatbot is for **educational purposes only**.
 It does **not** provide medical advice. Always consult a qualified healthcare professional for medical concerns.
 
----
 
-Would you like me to also create the **sample `app.py`, `index.html`, and `script.js`** so your chatbot is runnable right away, or just keep it at the documentation level?
